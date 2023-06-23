@@ -2,7 +2,7 @@
 
 ## Snapshot 📷
 
-![Snapshot](/path/to/snapshot.png)
+![Snapshot](https://github.com/Utkarssh11/Upgraded-Binary-Arithmetic-Machine/blob/main/TKINTER.png?raw=true)
 
 ## About our project 📝
 
